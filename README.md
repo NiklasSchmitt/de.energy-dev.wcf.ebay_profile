@@ -1,4 +1,3 @@
-# de.energy-dev.wcf.ebay_profile
-Plugin für das WoltLab BurningBoard 4.x<br>
-Fügt einen Link zum die eBay-Profil in den Kontaktmöglichkeiten hinzu.
-
+# de.niklas-schmitt.wsc.ebay_profile
+Plugin für das WoltLab Community Framework / WoltLab Suite<br>
+Fügt einen Link zum ebay.de-Profil in den Kontaktmöglichkeiten hinzu.
